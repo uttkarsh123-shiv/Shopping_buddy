@@ -39,3 +39,42 @@ smartbuy-extension/
 │   └── utils/             # Helper functions
 ├── package.json
 └── vite.config.ts
+
+⚡ Getting Started
+1️⃣ Clone the repo
+git clone https://github.com/your-username/smartbuy-extension.git
+cd smartbuy-extension
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run in dev mode
+npm run dev
+
+4️⃣ Build for production
+npm run build
+
+🔗 Load Extension in Chrome
+
+Open chrome://extensions/
+
+Enable Developer Mode
+
+Click Load Unpacked
+
+Select the dist/ folder after running npm run build
+
+🌟 Try it Now
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+📧 Contact
+
+Made with ❤️ by Your Name
+
+
+---
+
+Would you like me to also **make a badge-style button** that links directly to your GitHub repo demo (instead 
